@@ -1,0 +1,171 @@
+[
+    {
+      "orderId": 1,
+      "customerId": 3,
+      "orderDate": "2024-02-15T10:30:00Z",
+      "shippingAddress": {
+        "street": "789 Pine Street",
+        "city": "Villagetown",
+        "state": "TX",
+        "zipCode": "56789",
+        "country": "USA"
+      },
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "subtotal": 1599.98
+        },
+        {
+          "productId": 4,
+          "quantity": 1,
+          "subtotal": 899.00
+        }
+      ],
+      "totalAmount": 2498.98,
+      "paymentMethod": "Credit Card",
+      "paymentStatus": "Paid",
+      "shippingStatus": "Shipped"
+    },
+    {
+      "orderId": 2,
+      "customerId": 7,
+      "orderDate": "2024-02-16T14:45:00Z",
+      "shippingAddress": {
+        "street": "404 Cedar Lane",
+        "city": "Villageville",
+        "state": "CA",
+        "zipCode": "45678",
+        "country": "USA"
+      },
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 1,
+          "subtotal": 999.00
+        },
+        {
+          "productId": 5,
+          "quantity": 3,
+          "subtotal": 2249.97
+        }
+      ],
+      "totalAmount": 3248.97,
+      "paymentMethod": "PayPal",
+      "paymentStatus": "Paid",
+      "shippingStatus": "Processing"
+    },
+    {
+      "orderId": 3,
+      "customerId": 1,
+      "orderDate": "2024-02-17T09:15:00Z",
+      "shippingAddress": {
+        "street": "123 Main Street",
+        "city": "Cityville",
+        "state": "CA",
+        "zipCode": "12345",
+        "country": "USA"
+      },
+      "items": [
+        {
+          "productId": 3,
+          "quantity": 1,
+          "subtotal": 699.99
+        },
+        {
+          "productId": 6,
+          "quantity": 2,
+          "subtotal": 1999.98
+        }
+      ],
+      "totalAmount": 2699.97,
+      "paymentMethod": "Bank Transfer",
+      "paymentStatus": "Pending",
+      "shippingStatus": "Pending"
+    },
+    {
+        "orderId": 4,
+        "customerId": 5,
+        "orderDate": "2024-02-18T11:00:00Z",
+        "shippingAddress": {
+          "street": "202 Maple Lane",
+          "city": "Villageville",
+          "state": "CA",
+          "zipCode": "23456",
+          "country": "USA"
+        },
+        "items": [
+          {
+            "productId": 1,
+            "quantity": 1,
+            "subtotal": 799.99
+          },
+          {
+            "productId": 4,
+            "quantity": 2,
+            "subtotal": 1798.00
+          }
+        ],
+        "totalAmount": 2597.99,
+        "paymentMethod": "Credit Card",
+        "paymentStatus": "Paid",
+        "shippingStatus": "Shipped"
+      },
+      {
+        "orderId": 5,
+        "customerId": 9,
+        "orderDate": "2024-02-19T15:30:00Z",
+        "shippingAddress": {
+          "street": "606 Maple Avenue",
+          "city": "Townsville",
+          "state": "NY",
+          "zipCode": "67890",
+          "country": "USA"
+        },
+        "items": [
+          {
+            "productId": 2,
+            "quantity": 3,
+            "subtotal": 2997.00
+          },
+          {
+            "productId": 5,
+            "quantity": 1,
+            "subtotal": 749.99
+          }
+        ],
+        "totalAmount": 3746.99,
+        "paymentMethod": "PayPal",
+        "paymentStatus": "Paid",
+        "shippingStatus": "Shipped"
+      },
+      {
+        "orderId": 6,
+        "customerId": 2,
+        "orderDate": "2024-02-20T09:45:00Z",
+        "shippingAddress": {
+          "street": "456 Oak Avenue",
+          "city": "Townsville",
+          "state": "NY",
+          "zipCode": "67890",
+          "country": "USA"
+        },
+        "items": [
+          {
+            "productId": 3,
+            "quantity": 1,
+            "subtotal": 699.99
+          },
+          {
+            "productId": 6,
+            "quantity": 1,
+            "subtotal": 999.99
+          }
+        ],
+        "totalAmount": 1699.98,
+        "paymentMethod": "Bank Transfer",
+        "paymentStatus": "Pending",
+        "shippingStatus": "Pending"
+      }
+
+  ]
