@@ -1,12 +1,12 @@
 [
     { "id": 1, "brand": "Samsung", "model": "Galaxy S21", "price": 799.99, "imageURL": "https://i.ibb.co/845ScFC/pngwing-com-13.png" },
-    { "id": 2, "brand": "Apple", "model": "iPhone 13", "price": 999.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 3, "brand": "Google", "model": "Pixel 6", "price": 699.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 4, "brand": "OnePlus", "model": "9 Pro", "price": 899.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 5, "brand": "Xiaomi", "model": "Mi 11", "price": 749.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 6, "brand": "Sony", "model": "Xperia 5 III", "price": 999.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 7, "brand": "Huawei", "model": "P40 Pro", "price": 899.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 8, "brand": "LG", "model": "G8 ThinQ", "price": 599.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 9, "brand": "Motorola", "model": "Edge+", "price": 799.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
-    { "id": 10, "brand": "Nokia", "model": "8.3 5G", "price": 649.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" }
+    { "id": 2, "brand": "Apple", "model": "iPhone 13", "price": 999.00, "imageURL": "https://i.ibb.co/pZJ6j64/pngwing-com-12.png" },
+    { "id": 3, "brand": "Google", "model": "Pixel 6", "price": 699.99, "imageURL": "https://i.ibb.co/Pxb8Nrs/pngwing-com-14.png" },
+    { "id": 4, "brand": "OnePlus", "model": "9 Pro", "price": 899.00, "imageURL": "https://i.ibb.co/dDRkMtT/pngwing-com-15.png" },
+    { "id": 5, "brand": "Xiaomi", "model": "Mi 11", "price": 749.99, "imageURL": "https://i.ibb.co/tKXZ93m/pngwing-com-16.png" },
+    { "id": 6, "brand": "Sony", "model": "Xperia 5 III", "price": 999.99, "imageURL": "https://i.ibb.co/4t96MZH/pngwing-com-17.png" },
+    { "id": 7, "brand": "Huawei", "model": "P40 Pro", "price": 899.00, "imageURL": "https://i.ibb.co/gvBy86W/pngwing-com-18.png" },
+    { "id": 8, "brand": "LG", "model": "G8 ThinQ", "price": 599.99, "imageURL": "https://i.ibb.co/mR4XnMk/pngwing-com-19.png" },
+    { "id": 9, "brand": "Motorola", "model": "Edge+", "price": 799.00, "imageURL": "https://i.ibb.co/3fGQWvY/pngwing-com-20.png" },
+    { "id": 10, "brand": "Nokia", "model": "8.3 5G", "price": 649.00, "imageURL": "https://i.ibb.co/BcQTgMy/pngwing-com-22.png" }
   ]
