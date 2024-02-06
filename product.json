@@ -1,5 +1,5 @@
 [
-    { "id": 1, "brand": "Samsung", "model": "Galaxy S21", "price": 799.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
+    { "id": 1, "brand": "Samsung", "model": "Galaxy S21", "price": 799.99, "imageURL": "https://i.ibb.co/845ScFC/pngwing-com-13.png" },
     { "id": 2, "brand": "Apple", "model": "iPhone 13", "price": 999.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
     { "id": 3, "brand": "Google", "model": "Pixel 6", "price": 699.99, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
     { "id": 4, "brand": "OnePlus", "model": "9 Pro", "price": 899.00, "imageURL": "path/to/samsung-galaxy-s21.jpg" },
