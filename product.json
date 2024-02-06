@@ -1,7 +1,7 @@
 [
     { "id": 1, "brand": "Samsung", "model": "Galaxy S21", "price": 799.99, "imageURL": "https://i.ibb.co/845ScFC/pngwing-com-13.png" },
     { "id": 2, "brand": "Apple", "model": "iPhone 13", "price": 999.00, "imageURL": "https://i.ibb.co/pZJ6j64/pngwing-com-12.png" },
-    { "id": 3, "brand": "Google", "model": "Pixel 6", "price": 699.99, "imageURL": "" },
+    { "id": 3, "brand": "Google", "model": "Pixel 6", "price": 699.99, "imageURL": "https://i.ibb.co/w6Jw49y/pixel-6-header.png" },
     { "id": 4, "brand": "OnePlus", "model": "9 Pro", "price": 899.00, "imageURL": "https://i.ibb.co/dDRkMtT/pngwing-com-15.png" },
     { "id": 5, "brand": "Xiaomi", "model": "Mi 11", "price": 749.99, "imageURL": "https://i.ibb.co/tKXZ93m/pngwing-com-16.png" },
     { "id": 6, "brand": "Sony", "model": "Xperia 5 III", "price": 999.99, "imageURL": "https://i.ibb.co/4t96MZH/pngwing-com-17.png" },
