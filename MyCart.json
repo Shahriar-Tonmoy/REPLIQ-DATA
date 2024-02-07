@@ -24,5 +24,44 @@
         "battery": "3100 mAh",
         "details": "The Apple iPhone 13 boasts a stunning 6.1-inch Super Retina XDR display, a powerful dual 12 MP camera system, and generous 256GB storage. With a 3100 mAh battery, it delivers a seamless and efficient user experience.",
         "quantity": "100"
+      },
+      {
+        "id": 5,
+        "brand": "Xiaomi",
+        "model": "Mi 11",
+        "price": 749.99,
+        "imageURL": "https://i.ibb.co/tKXZ93m/pngwing-com-16.png",
+        "storage": "128GB",
+        "display": "6.81 inches AMOLED",
+        "camera": "Triple 108 MP",
+        "battery": "4600 mAh",
+        "details": "The Xiaomi Mi 11 features a massive 6.81-inch AMOLED display, an impressive triple 108 MP camera setup, and ample 128GB storage. With a 4600 mAh battery, it provides a superior multimedia and photography experience.",
+        "quantity": "60"
+      },
+      {
+        "id": 6,
+        "brand": "Sony",
+        "model": "Xperia 5 III",
+        "price": 999.99,
+        "imageURL": "https://i.ibb.co/4t96MZH/pngwing-com-17.png",
+        "storage": "256GB",
+        "display": "6.1 inches OLED",
+        "camera": "Triple 12 MP",
+        "battery": "4500 mAh",
+        "details": "The Sony Xperia 5 III features a sleek 6.1-inch OLED display, a powerful triple 12 MP camera system, and generous 256GB storage. With a 4500 mAh battery, it ensures a seamless and captivating user experience.",
+        "quantity": "20"
+      },
+      {
+        "id": 7,
+        "brand": "Huawei",
+        "model": "P40 Pro",
+        "price": 899.00,
+        "imageURL": "https://i.ibb.co/tLMCnyf/p40-pro-blue.png",
+        "storage": "256GB",
+        "display": "6.58 inches OLED",
+        "camera": "Penta 50 MP",
+        "battery": "4200 mAh",
+        "details": "The Huawei P40 Pro showcases a 6.58-inch OLED display, an innovative Penta 50 MP camera setup, and ample 256GB storage. With a 4200 mAh battery, it offers a revolutionary photography and multimedia experience.",
+        "quantity": "200"
       }
 ]
