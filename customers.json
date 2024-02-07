@@ -12,7 +12,8 @@
         "zipCode": "12345",
         "country": "USA"
       },
-      "image": "https://i.ibb.co/W29D8hV/cz-Nmcy1wcml2-YXRl-L3-Jhd3-Bpe-GVs-X2lt-YWdlcy93-ZWJza-XRl-X2-Nvbn-Rlbn-Qv-Mz-Y2-LW1ja2luc2-V5-LTIx.webp"
+      "image": "https://i.ibb.co/W29D8hV/cz-Nmcy1wcml2-YXRl-L3-Jhd3-Bpe-GVs-X2lt-YWdlcy93-ZWJza-XRl-X2-Nvbn-Rlbn-Qv-Mz-Y2-LW1ja2luc2-V5-LTIx.webp",
+      "orders": 2
 
     },
     {
@@ -28,7 +29,8 @@
         "zipCode": "67890",
         "country": "USA"
       },
-      "image": "https://i.ibb.co/82rZsgD/istockphoto-1341962028-612x612.jpg"
+      "image": "https://i.ibb.co/82rZsgD/istockphoto-1341962028-612x612.jpg",
+      "orders": 1
     },
     {
       "customerId": 3,
@@ -43,7 +45,8 @@
         "zipCode": "56789",
         "country": "USA"
       },
-      "image": "https://i.ibb.co/RQnjbyr/stock-photo-pensive-teenage-propping-face-hand-looking-away.jpg"
+      "image": "https://i.ibb.co/RQnjbyr/stock-photo-pensive-teenage-propping-face-hand-looking-away.jpg",
+      "orders": 3
     },
     {
       "customerId": 4,
@@ -58,6 +61,7 @@
         "zipCode": "45678",
         "country": "USA"
       },
-      "image": "https://i.ibb.co/3CjQm9c/CBP-3108-Matthew-Nee-Master.jpg"
+      "image": "https://i.ibb.co/3CjQm9c/CBP-3108-Matthew-Nee-Master.jpg",
+      "orders": 1
     }
   ]
